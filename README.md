@@ -5,6 +5,8 @@
 
 剑指offer.ipynb
 
+回溯算法.ipynb
+
 data_structure_and_algorithm.ipynb
 
 ## images
