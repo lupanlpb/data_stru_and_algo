@@ -7,6 +7,8 @@
 
 回溯算法.ipynb
 
+排序算法.ipynb
+
 data_structure_and_algorithm.ipynb
 
 ## images
